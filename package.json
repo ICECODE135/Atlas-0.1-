@@ -1,0 +1,15 @@
+{
+    "name": "smart-home",
+    "version": "1.0.0",
+    "description": "Smart Home Automation",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "ai": "^1.0.0",
+      "smart-device": "^1.0.0",
+      "blockchain": "^1.0.0",
+      "stack": "^1.0.0"
+    }
+  }
